@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Add Scout Suite Cloud Security Audit project"
+git branch -M main
+git remote add origin https://github.com/CloudTee-K/scout-suite-audit.git
+git push -u origin main
